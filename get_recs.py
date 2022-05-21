@@ -173,10 +173,12 @@ def main():
         json_object = json.dumps(ins_dict, indent=3).encode('utf-8')
         json_object = json.loads(json_object)
         print(json_object)
-        big_string.join(json_object)
-        big_string.join('],')
-    big_string.join(']')
+        big_string += str(json_object)
+        big_string += ','
+    big_string += ']'
     print(big_string)
+    with open('boba.json', 'w') as f:
+        f.write(big_string)
     # }
     # current_good_obj = run_jsonifier(goods_df.loc[goods_df['name'] == good_name])
     # current_good_list.append(current_good_obj)
