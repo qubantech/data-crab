@@ -1,0 +1,286 @@
+{
+  "goods": [
+    {
+      "uuid": "4f5b8588-8f3a-438c-8998-2170acb03517",
+      "name": "кукуруза",
+      "description": "желтый злаковый хрустящий кочан",
+      "imageUrl": "https://wallpapermemory.com/uploads/334/corn-wallpaper-full-hd-100667.jpg",
+      "price": 50
+    },
+    {
+      "uuid": "0d6483a9-801d-4f11-a7ea-812a8897251a",
+      "name": "яблоко",
+      "description": "хрустящий твердый фрукт",
+      "imageUrl": "https://www.wallpaperflare.com/static/478/19/604/variety-apples-food-fruit-wallpaper-preview.jpg",
+      "price": 20
+    },
+    {
+      "uuid": "ce39451b-859e-47fc-a9be-d454dd26382c",
+      "name": "чебурек с сыром",
+      "description": "выпечка с сырной начинкой",
+      "imageUrl": "https://www.photorecept.ru/wp-content/uploads/2019/12/9-17-1300x861.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "c39e8255-fa31-4c72-aa5b-cd3261149ddc",
+      "name": "чебурек с мясом",
+      "description": "жареная в масле выпечка с мясной начинкой",
+      "imageUrl": "https://s1.webspoon.ru/receipts/2015/2/23888/orig_23888_0_xxl.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "8c7d87cf-37b1-4def-9997-09b1fac19863",
+      "name": "чебурек с курицей",
+      "description": "жареная в масле выпечка с куриной начинкой",
+      "imageUrl": "https://s1.webspoon.ru/receipts/2015/2/23888/orig_23888_0_xxl.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "8fac551c-0d4b-48b9-be36-42b55b923b36",
+      "name": "пирожок с фруктами",
+      "description": "печеная выпечка с фруктовой начинкой",
+      "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+      "price": 80
+    },
+    {
+      "uuid": "4e286fb9-5978-40fb-970a-b2db59c3adb9",
+      "name": "пирожок с мясом",
+      "description": "печеная выпечка с мясной начинкой",
+      "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+      "price": 80
+    },
+    {
+      "uuid": "75e68f95-df47-4e87-8cff-a1ff5342f05d",
+      "name": "пирожок с джемом",
+      "description": "печеная выпечка с вареньем",
+      "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+      "price": 60
+    },
+    {
+      "uuid": "fdb1e3fd-fc3f-4535-b24d-5ef84afca6f0",
+      "name": "шаурма с курицей",
+      "description": "завернутая в лаваш куриная начинка с овощами",
+      "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "f1c02515-2aaf-4104-950b-af2e5990bbb2",
+      "name": "шаурма со свининой",
+      "description": "завернутая в лаваш свинина и начинка с овощами",
+      "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+      "price": 250
+    },
+    {
+      "uuid": "0348e24d-5306-4b4e-8c9f-886bca4d98fb",
+      "name": "шаурма с овощами",
+      "description": "завернутая в лаваш начинка с овощами",
+      "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "89501eff-5490-40a9-934f-106355d96e50",
+      "name": "шаурма с картофелем",
+      "description": "завернутая в лаваш начинка с картофелем и овощами",
+      "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "79b18ce3-d497-4c00-9960-836aeb12aa21",
+      "name": "шаурма с говядиной",
+      "description": "завернутая в лаваш начинка с говядиной и овощами",
+      "imageUrl": "https://makimaki.ru/upload/iblock/918/100001036.jpg",
+      "price": 300
+    },
+    {
+      "uuid": "9e838189-f506-456f-a516-7b8b1a2fcf4c",
+      "name": "гирос",
+      "description": "мясо в пшеничной лепешке с овощами",
+      "imageUrl": "https://s.zagranitsa.com/images/articles/2798/870x486/09da11d0d55dcaeedc8d1a5426ef83a1.jpg?1455013512",
+      "price": 250
+    },
+    {
+      "uuid": "347b0144-99d1-4fab-b818-67a624aad04d",
+      "name": "кусочек арбуза",
+      "description": "сочный летний плод",
+      "imageUrl": "https://s1.1zoom.ru/b4261/813/Watermelons_Piece_Ice_513339_1920x1080.jpg",
+      "price": 50
+    },
+    {
+      "uuid": "a4f276d5-eb69-48ee-9f2d-15e2575cdea7",
+      "name": "чурчхела",
+      "description": "восточная сладость с орехами в фруктовом соке",
+      "imageUrl": "https://mykaleidoscope.ru/uploads/posts/2021-09/thumbs/1632779969_36-mykaleidoscope-ru-p-vostochnaya-sladost-s-orekhami-churchkhela-54.jpg",
+      "price": 150
+    },
+    {
+      "uuid": "fc80f17f-5941-4833-8352-c85675e2cdec",
+      "name": "вареные раки",
+      "description": "сочные хрустящие морепродукты",
+      "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/a/2a/raki-ukrop-varenye.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "8dcad891-43e0-4f04-b862-844cf664dfb7",
+      "name": "пахлава",
+      "description": "хрустящая восточная сладость",
+      "imageUrl": "https://wallpaperscave.ru/images/thumbs/wp-preview/800x500/17/12-19/food-baklava-4016.jpg",
+      "price": 70
+    },
+    {
+      "uuid": "ae424bb8-1485-4a42-8430-de5d075e3cf1",
+      "name": "рахат-лукум",
+      "description": "мягкая желейная восточная сладость",
+      "imageUrl": "https://img4.goodfon.ru/original/1920x1080/a/12/desert-rakhat-lukum-orekhi.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "cde65aac-5c0b-4872-b391-9ec40116bad0",
+      "name": "чак-чак",
+      "description": "медовая восточная сладость из теста",
+      "imageUrl": "https://www.vsegdavkusno.ru/assets/images/recipes/1599/1.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "fd5b4499-cb53-4fa5-8bb2-bffc1916cfec",
+      "name": "булочка с корицей",
+      "description": "слоеная сдоба с пикантной корицей",
+      "imageUrl": "http://dvazajci.com/wp-content/uploads/2020/10/maxresdefault-1-960x540.jpg",
+      "price": 60
+    },
+    {
+      "uuid": "31a65b89-f699-448c-900e-5112a505bf76",
+      "name": "мороженое",
+      "description": "вкуснейший прохладительный  сливочный пломбир",
+      "imageUrl": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632857520_1-mykaleidoscope-ru-p-morozhenoe-v-ploskom-stakanchike-krasivo-f-1.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "cf157224-c15f-4bcf-81bd-efec75d15496",
+      "name": "эскимо",
+      "description": "глазированный в шоколаде пломбир",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpghttps://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpg",
+      "price": 120
+    },
+    {
+      "uuid": "6395e43d-ed73-4685-aa9c-1db518b4e879",
+      "name": "фруктовый лед",
+      "description": "замороженный натуральный сок свежайших фруков",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/440/761/78/popsicle-ice-fruit-food-wallpaper-preview.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "4b07c09f-94c8-40f6-bf9a-029bfdd668b3",
+      "name": "картофельные чипсы",
+      "description": "хрустящие чипсы из отборного картофеля со специями",
+      "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/478/823/744/chips-wallpaper-preview.jpghttps://p4.wallpaperbetter.com/wallpaper/478/823/744/chips-wallpaper-preview.jpg",
+      "price": 180
+    },
+    {
+      "uuid": "e8a84493-665d-41e4-9721-7020b660b725",
+      "name": "сухарики",
+      "description": "хрустящие сухари со специями из печи",
+      "imageUrl": "https://www.videoculinary.ru/wp-content/uploads/2015/03/suhariki-krutony-retsept_final.jpg",
+      "price": 60
+    },
+    {
+      "uuid": "aeee8894-1932-4fc4-8c49-58e3b5d2c62e",
+      "name": "круассан",
+      "description": "слоеная сдоба интересной формы со сладкой начинкой",
+      "imageUrl": "https://images.wallpaperscraft.ru/image/single/kruassan_iagody_klubnika_180033_1920x1080.jpg",
+      "price": 180
+    },
+    {
+      "uuid": "2f32b2fe-6a55-4027-ad59-191deac6f6bb",
+      "name": "квас",
+      "description": "газированный напиток натурального брожения",
+      "imageUrl": "https://storge.pic2.me/c/1360x800/404/5fd61c0896cad7.74459056.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "4dbf5f3d-8109-4c49-91d5-d91fd38f92a6",
+      "name": "кола",
+      "description": "газированный напиток с насыщенным сладким вкусом",
+      "imageUrl": "https://img1.akspic.ru/crops/7/5/3/9/19357/19357-gazirovannyye_bezalkogolnyye_napitki-kompanii_koka_kola-pite-bezalkogolnyj_napitok-napitok-1920x1080.jpg",
+      "price": 120
+    },
+    {
+      "uuid": "21029538-7b58-4758-81ce-3b4b154fcb56",
+      "name": "мохито",
+      "description": "прохладительный коктейль с лаймом и мятой",
+      "imageUrl": "https://img2.akspic.ru/previews/3/2/8/1823/1823-limon-voda-kajpirinya-mohito-steklo-x750.jpg",
+      "price": 250
+    },
+    {
+      "uuid": "91be32e1-1ca2-4f4a-ae11-f33b05959a3e",
+      "name": "вода",
+      "description": "напиток высочайшего качества из горных источников",
+      "imageUrl": "https://sc04.alicdn.com/kf/U54cb190ece4b43848c719f21bcd50984V.jpg",
+      "price": 90
+    },
+    {
+      "uuid": "a2258ba9-8e06-4b2f-a23b-8d04fbf3efe1",
+      "name": "эспрессо",
+      "description": "крепкий кофейный напиток",
+      "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_espresso_kapuchino_chashka_penka_112571_1920x1080.jpg",
+      "price": 120
+    },
+    {
+      "uuid": "1f2dd236-0396-4a38-a8dc-9cd9e4abf2bd",
+      "name": "американо",
+      "description": "крепкий горячий и терпкий кофейный напиток",
+      "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_chernyy_amerikano_zerna_kruzhka_otrazhenie_rafinad_5849_1280x720.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "79a4d6d3-347b-4662-87cb-32d5d68441ff",
+      "name": "капучино",
+      "description": "кофейный напиток на молочной основе",
+      "imageUrl": "https://images.wallpaperscraft.ru/image/single/kapuchino_kofe_chashka_215855_1280x720.jpg",
+      "price": 200
+    },
+    {
+      "uuid": "905f488e-438f-41a4-8551-ed1d52e75a75",
+      "name": "яблочный сок",
+      "description": "сок прямого отжима из отборных яблок",
+      "imageUrl": "https://get.pxhere.com/photo/juice-Apple-cider-vinegar-food-non-alcoholic-beverage-natural-foods-drink-vegetable-juice-apple-juice-apple-Aojiru-fruit-liqueur-cider-distilled-beverage-spritzer-ingredient-apple-cider-plant-Winter-melon-punch-lime-sour-produce-superfood-key-lime-persian-lime-Aguas-frescas-punch-1549605.jpg",
+      "price": 100
+    },
+    {
+      "uuid": "e82af14a-bf7f-471a-bfa4-db64db71e568",
+      "name": "апельсиновый сок",
+      "description": "кислый сок из отборных цитрусовых",
+      "imageUrl": "https://get.pxhere.com/photo/fruit-sweet-glass-ripe-dish-meal-food-produce-natural-drink-lifestyle-breakfast-juicy-healthy-vitamin-nutrition-vegan-vegetarian-diet-healthy-food-organic-refreshing-citrus-brunch-nutritious-squeezed-health-conscious-fruit-juice-fresh-orange-juice-nourishing-537517.jpg",
+      "price": 100
+    }
+  ],
+  "users": {
+    "DdKjvAdsC5RwMah1QjFZ21fIZmB3": {
+      "firstname": "Максим",
+      "lastname": "Михайлов",
+      "phone": " 8 (861) 201-85-82",
+      "role": "BEACH_MANAGER",
+      "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3"
+    },
+    "KQBFyuafnAZPrXPBZ3IFNQxmddM2": {
+      "firstname": "Сильва",
+      "lastname": "Вахрушева",
+      "phone": "8 (938) 866-88-27",
+      "role": "USER",
+      "uuid": "KQBFyuafnAZPrXPBZ3IFNQxmddM2"
+    },
+    "rhLa2UVepgZUHNJd16uEEbAB1xD2": {
+      "firstname": "Джульетта",
+      "lastname": "Волочкова",
+      "phone": "8 (861) 201-89-99",
+      "role": "SELLER",
+      "uuid": "rhLa2UVepgZUHNJd16uEEbAB1xD2"
+    },
+    "sbd9DxG5ReZQvNaa7xVdsPQjpS13": {
+      "firstname": "Михаил",
+      "lastname": "Абрамов",
+      "phone": " 8 (861) 335-03-30",
+      "role": "ADMIN",
+      "uuid": "sbd9DxG5ReZQvNaa7xVdsPQjpS13"
+    }
+  }
+}

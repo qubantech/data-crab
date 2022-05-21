@@ -1,0 +1,570 @@
+[
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Иванов М.М.",
+        "phone": " 8 (861) 201-85-82",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.900123,
+            "longitude": 37.315454
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Елена",
+            "lastname": "Кубыс",
+            "photoUrl": "https://thumbs.dreamstime.com/z/young-adult-woman-cashier-holding-pos-terminal-hand-smiling-looking-camera-sitting-checkout-supermarket-170471237.jpg"
+        },
+        "tags": [
+            "выпечка",
+            "шаурма",
+            "газировка"
+        ],
+        "goods": [
+            {
+                "uuid": "8fac551c-0d4b-48b9-be36-42b55b923b36",
+                "name": "пирожок с фруктами",
+                "description": "печеная выпечка с фруктовой начинкой",
+                "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+                "price": 80
+            },
+            {
+                "uuid": "75e68f95-df47-4e87-8cff-a1ff5342f05d",
+                "name": "пирожок с джемом",
+                "description": "печеная выпечка с вареньем",
+                "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+                "price": 60
+            },
+            {
+                "uuid": "fdb1e3fd-fc3f-4535-b24d-5ef84afca6f0",
+                "name": "шаурма с курицей",
+                "description": "завернутая в лаваш куриная начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "price": 200
+            },
+            {
+                "uuid": "4dbf5f3d-8109-4c49-91d5-d91fd38f92a6",
+                "name": "кола",
+                "description": "газированный напиток с насыщенным сладким вкусом",
+                "imageUrl": "https://img1.akspic.ru/crops/7/5/3/9/19357/19357-gazirovannyye_bezalkogolnyye_napitki-kompanii_koka_kola-pite-bezalkogolnyj_napitok-napitok-1920x1080.jpg",
+                "price": 120
+            }
+        ],
+        "inn": "7727563778",
+        "photosUrl": [
+            "https://aqualife-sport.com/wp-content/uploads/2019/09/1-23.jpg",
+            "https://barcelonatm.ru/wp-content/uploads/2016/05/plyazhnye-bary-barselony.jpg"
+        ]
+    },
+    {
+        "uuid": "KQBFyuafnAZPrXPBZ3IFNQxmddM2",
+        "legalEntityName": "ИП Шишка В.В.",
+        "phone": " 8 (861) 221-12-81",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.902195,
+            "longitude": 37.317592
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Андрей",
+            "lastname": "Александров",
+            "photoUrl": "https://img.freepik.com/free-photo/cheerful-afro-african-guy-at-the-beach-after-swim_33839-8912.jpg"
+        },
+        "tags": [
+            "кофе",
+            "напитки",
+            "газировка"
+        ],
+        "goods": [
+            {
+                "description": "напиток высочайшего качества из горных источников",
+                "imageUrl": "https://sc04.alicdn.com/kf/U54cb190ece4b43848c719f21bcd50984V.jpg",
+                "name": "вода",
+                "price": 90,
+                "uuid": "91be32e1-1ca2-4f4a-ae11-f33b05959a3e"
+              },
+              {
+                "description": "крепкий кофейный напиток",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_espresso_kapuchino_chashka_penka_112571_1920x1080.jpg",
+                "name": "эспрессо",
+                "price": 120,
+                "uuid": "a2258ba9-8e06-4b2f-a23b-8d04fbf3efe1"
+              },
+              {
+                "description": "крепкий горячий и терпкий кофейный напиток",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_chernyy_amerikano_zerna_kruzhka_otrazhenie_rafinad_5849_1280x720.jpg",
+                "name": "американо",
+                "price": 200,
+                "uuid": "1f2dd236-0396-4a38-a8dc-9cd9e4abf2bd"
+              },
+              {
+                "description": "кофейный напиток на молочной основе",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kapuchino_kofe_chashka_215855_1280x720.jpg",
+                "name": "капучино",
+                "price": 200,
+                "uuid": "79a4d6d3-347b-4662-87cb-32d5d68441ff"
+              },
+              {
+                "description": "сок прямого отжима из отборных яблок",
+                "imageUrl": "https://get.pxhere.com/photo/juice-Apple-cider-vinegar-food-non-alcoholic-beverage-natural-foods-drink-vegetable-juice-apple-juice-apple-Aojiru-fruit-liqueur-cider-distilled-beverage-spritzer-ingredient-apple-cider-plant-Winter-melon-punch-lime-sour-produce-superfood-key-lime-persian-lime-Aguas-frescas-punch-1549605.jpg",
+                "name": "яблочный сок",
+                "price": 100,
+                "uuid": "905f488e-438f-41a4-8551-ed1d52e75a75"
+              },
+              {
+                "description": "кислый сок из отборных цитрусовых",
+                "imageUrl": "https://get.pxhere.com/photo/fruit-sweet-glass-ripe-dish-meal-food-produce-natural-drink-lifestyle-breakfast-juicy-healthy-vitamin-nutrition-vegan-vegetarian-diet-healthy-food-organic-refreshing-citrus-brunch-nutritious-squeezed-health-conscious-fruit-juice-fresh-orange-juice-nourishing-537517.jpg",
+                "name": "апельсиновый сок",
+                "price": 100,
+                "uuid": "e82af14a-bf7f-471a-bfa4-db64db71e568"
+              }
+        ],
+        "inn": "7727888778",
+        "photosUrl": [
+            "https://ugitservice.com/images/Clients/KORSIKA/Fasad_Korsika.jpg",
+            "https://ugitservice.com/images/Clients/KORSIKA/Barn_Stoyka.jpg"
+        ]
+    },
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Мокрушин Г.В.",
+        "phone": " 8 (861) 391-39-91",
+        "workTime": "11:00 - 23:00",
+        "gps": {
+            "latitude": 44.904354,
+            "longitude": 37.318768
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Александр",
+            "lastname": "Соловьёв",
+            "photoUrl": "https://thumbs.dreamstime.com/b/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%BB%D0%B5%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0%D0%B4%D0%B5%D0%BB-%D1%89%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B8%D1%86%D0%B0-%D0%B3%D0%B5%D1%80%D0%BC%D0%BE%D1%88%D0%BB%D0%B5%D0%BC%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BB%D1%8F%D0%B6%D0%B5-%D1%82%D0%BE%D0%B6%D0%B5-%D0%B2-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5-204499401.jpg"
+        },
+        "tags": [
+            "мороженое",
+            "напитки"
+        ],
+        "goods": [
+            {
+                "description": "вкуснейший прохладительный  сливочный пломбир",
+                "imageUrl": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632857520_1-mykaleidoscope-ru-p-morozhenoe-v-ploskom-stakanchike-krasivo-f-1.jpg",
+                "name": "мороженое",
+                "price": 100,
+                "uuid": "31a65b89-f699-448c-900e-5112a505bf76"
+              },
+              {
+                "description": "глазированный в шоколаде пломбир",
+                "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpghttps://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpg",
+                "name": "эскимо",
+                "price": 120,
+                "uuid": "cf157224-c15f-4bcf-81bd-efec75d15496"
+              },
+              {
+                "description": "замороженный натуральный сок свежайших фруков",
+                "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/440/761/78/popsicle-ice-fruit-food-wallpaper-preview.jpg",
+                "name": "фруктовый лед",
+                "price": 100,
+                "uuid": "6395e43d-ed73-4685-aa9c-1db518b4e879"
+              },
+              {
+                "description": "газированный напиток натурального брожения",
+                "imageUrl": "https://storge.pic2.me/c/1360x800/404/5fd61c0896cad7.74459056.jpg",
+                "name": "квас",
+                "price": 100,
+                "uuid": "2f32b2fe-6a55-4027-ad59-191deac6f6bb"
+              },
+              {
+                "description": "газированный напиток с насыщенным сладким вкусом",
+                "imageUrl": "https://img1.akspic.ru/crops/7/5/3/9/19357/19357-gazirovannyye_bezalkogolnyye_napitki-kompanii_koka_kola-pite-bezalkogolnyj_napitok-napitok-1920x1080.jpg",
+                "name": "кола",
+                "price": 120,
+                "uuid": "4dbf5f3d-8109-4c49-91d5-d91fd38f92a6"
+              },
+              {
+                "description": "прохладительный коктейль с лаймом и мятой",
+                "imageUrl": "https://img2.akspic.ru/previews/3/2/8/1823/1823-limon-voda-kajpirinya-mohito-steklo-x750.jpg",
+                "name": "мохито",
+                "price": 250,
+                "uuid": "21029538-7b58-4758-81ce-3b4b154fcb56"
+              }
+        ],
+        "inn": "7754513718",
+        "photosUrl": [
+            "https://mks39.ru/wp-content/uploads/2021/08/1F3A8551-3-1024x683.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-s/04/b7/a5/fd/larissa-akman-park.jpg"
+        ]
+    },
+    {
+        "uuid": "rhLa2UVepgZUHNJd16uEEbAB1xD2",
+        "legalEntityName": "ИП Морозова М.И.",
+        "phone": " 8 (861) 523-84-42",
+        "workTime": "9:00 - 21:00",
+        "gps": {
+            "latitude": 44.901633,
+            "longitude": 37.317309
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Анатолий",
+            "lastname": "Бубасов",
+            "photoUrl": "https://tn.fishki.net/26/upload/post/201508/14/1629100/25_2.jpg"
+        },
+        "tags": [
+            "сладости",
+            "арбуз",
+            "раки"
+        ],
+        "goods": [
+            {
+                "description": "сочный летний плод",
+                "imageUrl": "https://s1.1zoom.ru/b4261/813/Watermelons_Piece_Ice_513339_1920x1080.jpg",
+                "name": "кусочек арбуза",
+                "price": 50,
+                "uuid": "347b0144-99d1-4fab-b818-67a624aad04d"
+              },
+              {
+                "description": "восточная сладость с орехами в фруктовом соке",
+                "imageUrl": "https://mykaleidoscope.ru/uploads/posts/2021-09/thumbs/1632779969_36-mykaleidoscope-ru-p-vostochnaya-sladost-s-orekhami-churchkhela-54.jpg",
+                "name": "чурчхела",
+                "price": 150,
+                "uuid": "a4f276d5-eb69-48ee-9f2d-15e2575cdea7"
+              },
+              {
+                "description": "сочные хрустящие морепродукты",
+                "imageUrl": "https://img4.goodfon.ru/wallpaper/nbig/a/2a/raki-ukrop-varenye.jpg",
+                "name": "вареные раки",
+                "price": 200,
+                "uuid": "fc80f17f-5941-4833-8352-c85675e2cdec"
+              },
+              {
+                "description": "хрустящая восточная сладость",
+                "imageUrl": "https://wallpaperscave.ru/images/thumbs/wp-preview/800x500/17/12-19/food-baklava-4016.jpg",
+                "name": "пахлава",
+                "price": 70,
+                "uuid": "8dcad891-43e0-4f04-b862-844cf664dfb7"
+              },
+              {
+                "description": "мягкая желейная восточная сладость",
+                "imageUrl": "https://img4.goodfon.ru/original/1920x1080/a/12/desert-rakhat-lukum-orekhi.jpg",
+                "name": "рахат-лукум",
+                "price": 100,
+                "uuid": "ae424bb8-1485-4a42-8430-de5d075e3cf1"
+              },
+              {
+                "description": "медовая восточная сладость из теста",
+                "imageUrl": "https://www.vsegdavkusno.ru/assets/images/recipes/1599/1.jpg",
+                "name": "чак-чак",
+                "price": 200,
+                "uuid": "cde65aac-5c0b-4872-b391-9ec40116bad0"
+              }
+        ],
+        "inn": "7427563718",
+        "photosUrl": [
+            "https://anapaservices.ru/pics-storage/2015/06/05.jpg",
+            "https://st2.depositphotos.com/1301843/7324/i/950/depositphotos_73245167-stock-photo-beach-cafe-with-empty-tables.jpg"
+        ]
+    },
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Аствацатуров С.Р.",
+        "phone": " 8 (861) 555-35-35",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.902746,
+            "longitude": 37.317647
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Александра",
+            "lastname": "Никитина",
+            "photoUrl": "https://cdn.pixabay.com/photo/2020/06/16/14/39/beach-5305882_960_720.jpg"
+        },
+        "tags": [
+            "шаурма"
+        ],
+        "goods": [
+            {
+                "description": "завернутая в лаваш куриная начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "name": "шаурма с курицей",
+                "price": 200,
+                "uuid": "fdb1e3fd-fc3f-4535-b24d-5ef84afca6f0"
+              },
+              {
+                "description": "завернутая в лаваш свинина и начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "name": "шаурма со свининой",
+                "price": 250,
+                "uuid": "f1c02515-2aaf-4104-950b-af2e5990bbb2"
+              },
+              {
+                "description": "завернутая в лаваш начинка с овощами",
+                "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+                "name": "шаурма с овощами",
+                "price": 200,
+                "uuid": "0348e24d-5306-4b4e-8c9f-886bca4d98fb"
+              },
+              {
+                "description": "завернутая в лаваш начинка с картофелем и овощами",
+                "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+                "name": "шаурма с картофелем",
+                "price": 200,
+                "uuid": "89501eff-5490-40a9-934f-106355d96e50"
+              }
+        ],
+        "inn": "7221533475",
+        "photosUrl": [
+            "https://mks39.ru/wp-content/uploads/2021/08/1F3A8579-2-2-1024x683.jpg",
+            "https://avatars.mds.yandex.net/get-altay/2363990/2a0000017b2b4c3009fa8169052d22836e82/XXL"
+        ]
+    },
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Иванов М.М.",
+        "phone": " 8 (861) 201-85-82",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.900535,
+            "longitude": 37.316204
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Елена",
+            "lastname": "Кубыс",
+            "photoUrl": "https://thumbs.dreamstime.com/z/young-adult-woman-cashier-holding-pos-terminal-hand-smiling-looking-camera-sitting-checkout-supermarket-170471237.jpg"
+        },
+        "tags": [
+            "выпечка",
+            "шаурма",
+            "газировка"
+        ],
+        "goods": [
+            {
+                "uuid": "8fac551c-0d4b-48b9-be36-42b55b923b36",
+                "name": "пирожок с фруктами",
+                "description": "печеная выпечка с фруктовой начинкой",
+                "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+                "price": 80
+            },
+            {
+                "uuid": "75e68f95-df47-4e87-8cff-a1ff5342f05d",
+                "name": "пирожок с джемом",
+                "description": "печеная выпечка с вареньем",
+                "imageUrl": "https://thumbs.dreamstime.com/z/%D0%BF%D0%B8%D1%80%D0%BE%D0%B6%D0%BA%D0%B8-%D0%BA%D0%B0%D0%BF%D1%83%D1%81%D1%82%D1%8B-17858244.jpg",
+                "price": 60
+            },
+            {
+                "uuid": "fdb1e3fd-fc3f-4535-b24d-5ef84afca6f0",
+                "name": "шаурма с курицей",
+                "description": "завернутая в лаваш куриная начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "price": 200
+            },
+            {
+                "uuid": "4dbf5f3d-8109-4c49-91d5-d91fd38f92a6",
+                "name": "кола",
+                "description": "газированный напиток с насыщенным сладким вкусом",
+                "imageUrl": "https://img1.akspic.ru/crops/7/5/3/9/19357/19357-gazirovannyye_bezalkogolnyye_napitki-kompanii_koka_kola-pite-bezalkogolnyj_napitok-napitok-1920x1080.jpg",
+                "price": 120
+            }
+        ],
+        "inn": "7727563778",
+        "photosUrl": [
+            "https://aqualife-sport.com/wp-content/uploads/2019/09/1-23.jpg",
+            "https://barcelonatm.ru/wp-content/uploads/2016/05/plyazhnye-bary-barselony.jpg"
+        ]
+    },
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Аствацатуров С.Р.",
+        "phone": " 8 (861) 555-35-35",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.899357,
+            "longitude": 37.314981
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Александра",
+            "lastname": "Никитина",
+            "photoUrl": "https://cdn.pixabay.com/photo/2020/06/16/14/39/beach-5305882_960_720.jpg"
+        },
+        "tags": [
+            "шаурма"
+        ],
+        "goods": [
+            {
+                "description": "завернутая в лаваш куриная начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "name": "шаурма с курицей",
+                "price": 200,
+                "uuid": "fdb1e3fd-fc3f-4535-b24d-5ef84afca6f0"
+              },
+              {
+                "description": "завернутая в лаваш свинина и начинка с овощами",
+                "imageUrl": "https://img.gazeta.ru/files3/867/12373867/Depositphotos_73527551_l-2015-pic905-895x505-54479.jpg",
+                "name": "шаурма со свининой",
+                "price": 250,
+                "uuid": "f1c02515-2aaf-4104-950b-af2e5990bbb2"
+              },
+              {
+                "description": "завернутая в лаваш начинка с овощами",
+                "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+                "name": "шаурма с овощами",
+                "price": 200,
+                "uuid": "0348e24d-5306-4b4e-8c9f-886bca4d98fb"
+              },
+              {
+                "description": "завернутая в лаваш начинка с картофелем и овощами",
+                "imageUrl": "https://waira.storage.yandexcloud.net/iblock/e52/shaurma_vegetarianskaya.jpg",
+                "name": "шаурма с картофелем",
+                "price": 200,
+                "uuid": "89501eff-5490-40a9-934f-106355d96e50"
+              }
+        ],
+        "inn": "7221533475",
+        "photosUrl": [
+            "https://mks39.ru/wp-content/uploads/2021/08/1F3A8579-2-2-1024x683.jpg",
+            "https://avatars.mds.yandex.net/get-altay/2363990/2a0000017b2b4c3009fa8169052d22836e82/XXL"
+        ]
+    },
+    {
+        "uuid": "KQBFyuafnAZPrXPBZ3IFNQxmddM2",
+        "legalEntityName": "ИП Шишка В.В.",
+        "phone": " 8 (861) 221-12-81",
+        "workTime": "9:00 - 22:00",
+        "gps": {
+            "latitude": 44.898103,
+            "longitude": 37.313339
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Андрей",
+            "lastname": "Александров",
+            "photoUrl": "https://img.freepik.com/free-photo/cheerful-afro-african-guy-at-the-beach-after-swim_33839-8912.jpg"
+        },
+        "tags": [
+            "кофе",
+            "напитки",
+            "газировка"
+        ],
+        "goods": [
+            {
+                "description": "напиток высочайшего качества из горных источников",
+                "imageUrl": "https://sc04.alicdn.com/kf/U54cb190ece4b43848c719f21bcd50984V.jpg",
+                "name": "вода",
+                "price": 90,
+                "uuid": "91be32e1-1ca2-4f4a-ae11-f33b05959a3e"
+              },
+              {
+                "description": "крепкий кофейный напиток",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_espresso_kapuchino_chashka_penka_112571_1920x1080.jpg",
+                "name": "эспрессо",
+                "price": 120,
+                "uuid": "a2258ba9-8e06-4b2f-a23b-8d04fbf3efe1"
+              },
+              {
+                "description": "крепкий горячий и терпкий кофейный напиток",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kofe_chernyy_amerikano_zerna_kruzhka_otrazhenie_rafinad_5849_1280x720.jpg",
+                "name": "американо",
+                "price": 200,
+                "uuid": "1f2dd236-0396-4a38-a8dc-9cd9e4abf2bd"
+              },
+              {
+                "description": "кофейный напиток на молочной основе",
+                "imageUrl": "https://images.wallpaperscraft.ru/image/single/kapuchino_kofe_chashka_215855_1280x720.jpg",
+                "name": "капучино",
+                "price": 200,
+                "uuid": "79a4d6d3-347b-4662-87cb-32d5d68441ff"
+              },
+              {
+                "description": "сок прямого отжима из отборных яблок",
+                "imageUrl": "https://get.pxhere.com/photo/juice-Apple-cider-vinegar-food-non-alcoholic-beverage-natural-foods-drink-vegetable-juice-apple-juice-apple-Aojiru-fruit-liqueur-cider-distilled-beverage-spritzer-ingredient-apple-cider-plant-Winter-melon-punch-lime-sour-produce-superfood-key-lime-persian-lime-Aguas-frescas-punch-1549605.jpg",
+                "name": "яблочный сок",
+                "price": 100,
+                "uuid": "905f488e-438f-41a4-8551-ed1d52e75a75"
+              },
+              {
+                "description": "кислый сок из отборных цитрусовых",
+                "imageUrl": "https://get.pxhere.com/photo/fruit-sweet-glass-ripe-dish-meal-food-produce-natural-drink-lifestyle-breakfast-juicy-healthy-vitamin-nutrition-vegan-vegetarian-diet-healthy-food-organic-refreshing-citrus-brunch-nutritious-squeezed-health-conscious-fruit-juice-fresh-orange-juice-nourishing-537517.jpg",
+                "name": "апельсиновый сок",
+                "price": 100,
+                "uuid": "e82af14a-bf7f-471a-bfa4-db64db71e568"
+              }
+        ],
+        "inn": "7727888778",
+        "photosUrl": [
+            "https://ugitservice.com/images/Clients/KORSIKA/Fasad_Korsika.jpg",
+            "https://ugitservice.com/images/Clients/KORSIKA/Barn_Stoyka.jpg"
+        ]
+    },
+    {
+        "uuid": "DdKjvAdsC5RwMah1QjFZ21fIZmB3",
+        "legalEntityName": "ИП Мокрушин Г.В.",
+        "phone": " 8 (861) 391-39-91",
+        "workTime": "11:00 - 23:00",
+        "gps": {
+            "latitude": 44.897609,
+            "longitude": 37.312626
+        },
+        "dynamic": false,
+        "cashier": {
+            "firstname": "Александр",
+            "lastname": "Соловьёв",
+            "photoUrl": "https://thumbs.dreamstime.com/b/%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA-%D0%BB%D0%B5%D1%82%D0%BE%D0%BC-%D0%BD%D0%B0%D0%B4%D0%B5%D0%BB-%D1%89%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B8%D1%86%D0%B0-%D0%B3%D0%B5%D1%80%D0%BC%D0%BE%D1%88%D0%BB%D0%B5%D0%BC%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BB%D1%8F%D0%B6%D0%B5-%D1%82%D0%BE%D0%B6%D0%B5-%D0%B2-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5-204499401.jpg"
+        },
+        "tags": [
+            "мороженое",
+            "напитки"
+        ],
+        "goods": [
+            {
+                "description": "вкуснейший прохладительный  сливочный пломбир",
+                "imageUrl": "https://mykaleidoscope.ru/uploads/posts/2021-09/1632857520_1-mykaleidoscope-ru-p-morozhenoe-v-ploskom-stakanchike-krasivo-f-1.jpg",
+                "name": "мороженое",
+                "price": 100,
+                "uuid": "31a65b89-f699-448c-900e-5112a505bf76"
+              },
+              {
+                "description": "глазированный в шоколаде пломбир",
+                "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpghttps://p4.wallpaperbetter.com/wallpaper/243/446/351/food-popsicle-ice-cream-chocolate-wallpaper-preview.jpg",
+                "name": "эскимо",
+                "price": 120,
+                "uuid": "cf157224-c15f-4bcf-81bd-efec75d15496"
+              },
+              {
+                "description": "замороженный натуральный сок свежайших фруков",
+                "imageUrl": "https://p4.wallpaperbetter.com/wallpaper/440/761/78/popsicle-ice-fruit-food-wallpaper-preview.jpg",
+                "name": "фруктовый лед",
+                "price": 100,
+                "uuid": "6395e43d-ed73-4685-aa9c-1db518b4e879"
+              },
+              {
+                "description": "газированный напиток натурального брожения",
+                "imageUrl": "https://storge.pic2.me/c/1360x800/404/5fd61c0896cad7.74459056.jpg",
+                "name": "квас",
+                "price": 100,
+                "uuid": "2f32b2fe-6a55-4027-ad59-191deac6f6bb"
+              },
+              {
+                "description": "газированный напиток с насыщенным сладким вкусом",
+                "imageUrl": "https://img1.akspic.ru/crops/7/5/3/9/19357/19357-gazirovannyye_bezalkogolnyye_napitki-kompanii_koka_kola-pite-bezalkogolnyj_napitok-napitok-1920x1080.jpg",
+                "name": "кола",
+                "price": 120,
+                "uuid": "4dbf5f3d-8109-4c49-91d5-d91fd38f92a6"
+              },
+              {
+                "description": "прохладительный коктейль с лаймом и мятой",
+                "imageUrl": "https://img2.akspic.ru/previews/3/2/8/1823/1823-limon-voda-kajpirinya-mohito-steklo-x750.jpg",
+                "name": "мохито",
+                "price": 250,
+                "uuid": "21029538-7b58-4758-81ce-3b4b154fcb56"
+              }
+        ],
+        "inn": "7754513718",
+        "photosUrl": [
+            "https://mks39.ru/wp-content/uploads/2021/08/1F3A8551-3-1024x683.jpg",
+            "https://media-cdn.tripadvisor.com/media/photo-s/04/b7/a5/fd/larissa-akman-park.jpg"
+        ]
+    }
+]
