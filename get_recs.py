@@ -176,9 +176,12 @@ def main():
         big_string += str(json_object)
         big_string += ','
     big_string += ']'
-    print(big_string)
-    with open('boba.json', 'w') as f:
-        f.write(big_string)
+
+    # print(big_string)
+    # with open('boba.json', 'w') as f:
+    #     f.write(big_string)
+
+    return big_string
     # }
     # current_good_obj = run_jsonifier(goods_df.loc[goods_df['name'] == good_name])
     # current_good_list.append(current_good_obj)
